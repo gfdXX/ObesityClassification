@@ -1,2 +1,2 @@
 "# ObesityClassification" 
-Today is bueatiful
+Today is beautiful
